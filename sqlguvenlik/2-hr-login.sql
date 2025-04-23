@@ -1,0 +1,5 @@
+
+CREATE LOGIN HR_Login
+WITH PASSWORD = 'HrLogin1!';
+
+

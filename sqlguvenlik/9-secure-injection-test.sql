@@ -1,0 +1,1 @@
+EXEC dbo.usp_GetEmployeeByJobTitle_Secure @JobTitle = N'Manager'' or 1 = 1--'; -- sızma kullanımı
